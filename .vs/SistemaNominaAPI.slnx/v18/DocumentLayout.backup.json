@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bearo\\source\\repos\\SistemaNominaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0D3F96-0235-4292-894C-1D40B8036C9A}|SistemaNominaAPI\\SistemaNominaAPI.pyproj|C:\\Users\\bearo\\source\\repos\\SistemaNominaAPI\\SistemaNominaAPI\\SistemaNominaAPI.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E0D3F96-0235-4292-894C-1D40B8036C9A}|SistemaNominaAPI\\SistemaNominaAPI.pyproj|solutionrelative:SistemaNominaAPI\\SistemaNominaAPI.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaNominaAPI.py",
+              "DocumentMoniker": "C:\\Users\\bearo\\source\\repos\\SistemaNominaAPI\\SistemaNominaAPI\\SistemaNominaAPI.py",
+              "RelativeDocumentMoniker": "SistemaNominaAPI\\SistemaNominaAPI.py",
+              "ToolTip": "C:\\Users\\bearo\\source\\repos\\SistemaNominaAPI\\SistemaNominaAPI\\SistemaNominaAPI.py*",
+              "RelativeToolTip": "SistemaNominaAPI\\SistemaNominaAPI.py*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-07-17T07:23:42.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
